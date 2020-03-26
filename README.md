@@ -2,4 +2,4 @@
 
 A simple side-scrolling game made with pygame.
 
-!(runner.png)
+![Runner Game](runner.png)
